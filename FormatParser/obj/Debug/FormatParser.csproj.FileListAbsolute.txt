@@ -1,0 +1,7 @@
+F:\Internships\C#\FormatParser\FormatParser\bin\Debug\FormatParser.exe.config
+F:\Internships\C#\FormatParser\FormatParser\bin\Debug\FormatParser.exe
+F:\Internships\C#\FormatParser\FormatParser\bin\Debug\FormatParser.pdb
+F:\Internships\C#\FormatParser\FormatParser\obj\Debug\FormatParser.csprojAssemblyReference.cache
+F:\Internships\C#\FormatParser\FormatParser\obj\Debug\FormatParser.csproj.CoreCompileInputs.cache
+F:\Internships\C#\FormatParser\FormatParser\obj\Debug\FormatParser.exe
+F:\Internships\C#\FormatParser\FormatParser\obj\Debug\FormatParser.pdb
